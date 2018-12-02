@@ -1,0 +1,6 @@
+framework module Pods_Stack_Overflowing_With_QuestionsTests {
+  umbrella header "Pods-Stack Overflowing With QuestionsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
